@@ -1,0 +1,24 @@
+{
+  "date_utc": "2026-11-08T13:01:36+00:00",
+  "seed": 42,
+  "ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "manifest": "audit\\pv\\manifest.csv",
+  "manifest_sha256": "2b3bbacc616c75f963705cabc91366d91bfab60d67e61c91d623ff10ee1bc6eb",
+  "leaf_map": "PlantVillage-Dataset\\leaf_grouping\\leaf-map.json",
+  "leaf_map_sha256": "3b4b253683c6911744959a3870a92509b1faa1ee34e9f8585e21d0fe6337a25b",
+  "n_eligibles": 7209,
+  "n_partitionnees": 4870,
+  "n_reserve": 2339,
+  "n_groupes": 1218,
+  "versions": {
+    "python": "3.11.9",
+    "numpy": "2.4.6",
+    "pandas": "3.1.1"
+  },
+  "platform": "Windows-10-10.0.26200-SP0",
+  "git_commit": ""
+}

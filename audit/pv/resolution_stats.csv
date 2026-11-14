@@ -1,0 +1,11 @@
+class_origin,larg_min,larg_med,larg_max,haut_min,haut_med,haut_max,formats
+Tomato___Bacterial_spot,256,256.0,256,256,256.0,256,JPEG:2127
+Tomato___Early_blight,256,256.0,256,256,256.0,256,JPEG:1000
+Tomato___Late_blight,256,256.0,256,256,256.0,256,JPEG:1909
+Tomato___Leaf_Mold,256,256.0,256,256,256.0,256,JPEG:952
+Tomato___Septoria_leaf_spot,256,256.0,256,256,256.0,256,JPEG:1771
+Tomato___Spider_mites Two-spotted_spider_mite,256,256.0,256,256,256.0,256,JPEG:1676
+Tomato___Target_Spot,256,256.0,256,256,256.0,256,JPEG:1404
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,256,256.0,256,256,256.0,256,JPEG:5357
+Tomato___Tomato_mosaic_virus,256,256.0,256,256,256.0,256,JPEG:373
+Tomato___healthy,256,256.0,256,256,256.0,256,JPEG:1591

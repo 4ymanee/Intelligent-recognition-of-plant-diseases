@@ -1,0 +1,5 @@
+image_id,class_origin,exclusion_reason
+plantdoc:test/Tomato leaf bacterial spot/tomato_V8.jpg,Tomato leaf bacterial spot,conflit_etiquette(doublon_exact_inter_classes)
+plantdoc:train/Tomato leaf yellow virus/tylcv-seminar-1-638.jpg,Tomato leaf yellow virus,doublon_exact_de:plantdoc:test/Tomato leaf yellow virus/tylcv-seminar-1-638.jpg
+plantdoc:train/Tomato Septoria leaf spot/early-blight-septoria-ls-fig-3.jpg,Tomato Septoria leaf spot,doublon_exact_de:plantdoc:test/Tomato Septoria leaf spot/early-blight-septoria-ls-fig-3.jpg
+plantdoc:train/Tomato Septoria leaf spot/tomato_V8.jpg,Tomato Septoria leaf spot,conflit_etiquette(doublon_exact_inter_classes)

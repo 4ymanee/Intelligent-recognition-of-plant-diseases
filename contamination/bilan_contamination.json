@@ -1,0 +1,9 @@
+{
+  "copies_exactes_sha256": 0,
+  "images_pd_test_externe": 502,
+  "candidats_distance_<=7": 6,
+  "doublons_probables_distance_<=3": 0,
+  "distance_minimale_observee": 6,
+  "contaminations_confirmees": 0,
+  "candidats_restant_a_examiner": 6
+}

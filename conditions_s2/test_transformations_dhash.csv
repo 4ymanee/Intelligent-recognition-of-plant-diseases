@@ -1,0 +1,11 @@
+transformation,distance médiane,détectée à seuil 4 (%),détectée à seuil 7 (%)
+recompression JPEG (qualité 50),0.0,100.0,100.0
+redimensionnement 128 px puis 256 px,0.0,100.0,100.0
+"luminosité x 0,8",0.0,99.5,100.0
+"luminosité x 1,2",0.0,100.0,100.0
+"contraste x 0,8",1.0,100.0,100.0
+flou gaussien (rayon 1),1.0,99.5,100.0
+recadrage centré 90 %,10.0,2.0,13.0
+recadrage centré 75 %,26.0,0.0,0.0
+retournement horizontal,30.5,0.0,0.0
+rotation de 90 degrés,31.0,0.0,0.0

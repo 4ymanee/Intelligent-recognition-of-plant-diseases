@@ -1,0 +1,15 @@
+{
+  "date_utc": "2026-11-12T20:36:42+00:00",
+  "seed": 42,
+  "manifest_sha256": "2b3bbacc616c75f963705cabc91366d91bfab60d67e61c91d623ff10ee1bc6eb",
+  "partition_sha256": "767c288f463b882ccba6f5bcb5dfd663c9f5b66528ba6175f571969e263d0f03",
+  "reserve_sha256": "67bfdec8e1fae92e079751dcdde5405c8ad72fd0981ea5e722122315a4304993",
+  "n_inclus": 4870,
+  "n_reserve": 2339,
+  "versions": {
+    "python": "3.11.9",
+    "numpy": "2.4.6",
+    "pandas": "3.1.1"
+  },
+  "platform": "Windows-10-10.0.26200-SP0"
+}

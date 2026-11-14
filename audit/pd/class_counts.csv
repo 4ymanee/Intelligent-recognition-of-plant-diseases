@@ -1,0 +1,10 @@
+class_origin,class_retained,class_status,n_scannees,n_illisibles,n_exclues,n_conservees,n_en_cluster_quasi_doublon
+Tomato Early blight leaf,alternariose_precoce,CONFIRME,88,0,0,88,11
+Tomato Septoria leaf spot,septoriose,CONFIRME,151,0,2,149,14
+Tomato leaf,saine,CONFIRME,63,0,0,63,0
+Tomato leaf bacterial spot,hors_perimetre,CONFIRME,110,0,1,109,6
+Tomato leaf late blight,mildiou_tardif,CONFIRME,111,0,0,111,9
+Tomato leaf mosaic virus,hors_perimetre,CONFIRME,54,0,0,54,1
+Tomato leaf yellow virus,hors_perimetre,CONFIRME,76,0,1,75,4
+Tomato mold leaf,cladosporiose,CONFIRME,91,0,0,91,1
+Tomato two spotted spider mites leaf,hors_perimetre,CONFIRME,2,0,0,2,0

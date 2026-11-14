@@ -1,0 +1,11 @@
+class_origin,class_retained,class_status,n_scannees,n_illisibles,n_exclues,n_conservees,n_en_cluster_quasi_doublon
+Tomato___Bacterial_spot,hors_perimetre,CONFIRME,2127,0,0,2127,5
+Tomato___Early_blight,alternariose_precoce,CONFIRME,1000,0,0,1000,1
+Tomato___Late_blight,mildiou_tardif,CONFIRME,1909,0,8,1901,5
+Tomato___Leaf_Mold,cladosporiose,CONFIRME,952,0,0,952,0
+Tomato___Septoria_leaf_spot,septoriose,CONFIRME,1771,0,0,1771,0
+Tomato___Spider_mites Two-spotted_spider_mite,hors_perimetre,CONFIRME,1676,0,0,1676,1
+Tomato___Target_Spot,hors_perimetre,CONFIRME,1404,0,0,1404,1
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,hors_perimetre,CONFIRME,5357,0,0,5357,37
+Tomato___Tomato_mosaic_virus,hors_perimetre,CONFIRME,373,0,0,373,2
+Tomato___healthy,saine,CONFIRME,1591,0,6,1585,15

@@ -1,0 +1,23 @@
+{
+  "date_utc": "2026-11-07T20:57:34+00:00",
+  "parametres": {
+    "corpus": "plantdoc",
+    "root": "PlantDoc-Dataset",
+    "out": "audit\\pd",
+    "all_crops": false,
+    "min_side": 64,
+    "dhash_threshold": 4,
+    "seed": 42
+  },
+  "corpus_revision": "pratikkayal/PlantDoc-Dataset, commit 5467f6012d78d1c446145d5f582da6096f852ae8 téléchargé le 2026-11-07",
+  "versions": {
+    "python": "3.11.9",
+    "numpy": "2.4.6",
+    "pandas": "3.1.1",
+    "pillow": "13.0.0"
+  },
+  "platform": "Windows-10-10.0.26200-SP0",
+  "git_commit": "",
+  "n_images_scannees": 746,
+  "manifest_sha256": "0b01ff265dd70574318991b89abd3b9ad2bb198367682ab4fe3dc0182443ba1b"
+}

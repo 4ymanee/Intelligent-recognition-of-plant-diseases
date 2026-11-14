@@ -1,0 +1,23 @@
+{
+  "date_utc": "2026-11-07T20:06:20+00:00",
+  "parametres": {
+    "corpus": "plantvillage",
+    "root": "PlantVillage-Dataset\\raw\\color",
+    "out": "audit\\pv",
+    "all_crops": false,
+    "min_side": 64,
+    "dhash_threshold": 4,
+    "seed": 42
+  },
+  "corpus_revision": "spMohanty/PlantVillage-Dataset, commit 7f7ecc7e1eaca78107e3affe7cb5abd9427e139a téléchargé le 2026-11-06",
+  "versions": {
+    "python": "3.11.9",
+    "numpy": "2.4.6",
+    "pandas": "3.1.1",
+    "pillow": "13.0.0"
+  },
+  "platform": "Windows-10-10.0.26200-SP0",
+  "git_commit": "",
+  "n_images_scannees": 18160,
+  "manifest_sha256": "2b3bbacc616c75f963705cabc91366d91bfab60d67e61c91d623ff10ee1bc6eb"
+}

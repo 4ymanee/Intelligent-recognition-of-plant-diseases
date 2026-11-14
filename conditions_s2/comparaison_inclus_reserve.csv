@@ -1,0 +1,13 @@
+classe,métrique,médiane incluses,médiane réservées,AUC,écart notable
+mildiou_tardif,mean_lum,119.01,118.35,0.57,False
+mildiou_tardif,contrast,49.38,24.08,0.91,True
+mildiou_tardif,blur_lapvar,1634.84,487.99,0.98,True
+mildiou_tardif,border_std,39.6,20.17,0.87,True
+saine,mean_lum,117.21,115.24,0.59,False
+saine,contrast,38.99,19.37,1.0,True
+saine,blur_lapvar,3913.77,816.6,1.0,True
+saine,border_std,27.86,22.29,0.81,True
+septoriose,mean_lum,135.67,121.65,0.77,True
+septoriose,contrast,35.78,36.03,0.52,False
+septoriose,blur_lapvar,1751.12,1541.81,0.54,False
+septoriose,border_std,22.51,19.09,0.62,False
