@@ -9,7 +9,8 @@ Ce dépôt contient les **scripts, notebooks et fichiers de preuve** du jalon S2
 
 | Élément | Rôle |
 |---|---|
-| `audit_corpus.ipynb` | Audit d'un corpus (inventaire, doublons, qualité, classes) |
+| `audit_corpusPV.ipynb` | Audit du corpus PlantVillage (inventaire, doublons, qualité, classes) |
+| `audit_corpusPD.ipynb` | Audit du corpus PlantDoc(inventaire, doublons, qualité, classes) |
 | `restore_invalid_names.py` | Restaure sous un nom assaini les fichiers dont le nom est interdit sous Windows |
 | `partitions_plantvillage.ipynb` | Partitions entraînement / validation / test **par feuille**, contrôles anti-fuite |
 | `contamination_plantvillage_plantdoc.ipynb` | Recherche de copies de PlantVillage dans le test externe PlantDoc |
@@ -68,8 +69,8 @@ Chaque ligne doit afficher `OK` (révision et effectifs par classe).
 
 | N° | Notebook | Configuration à renseigner | Sorties |
 |---|---|---|---|
-| 1 | `audit_corpus.ipynb` | `CORPUS="plantvillage"`, `ROOT=Path("PlantVillage-Dataset/raw/color")`, `OUT=Path("audit/pv")`, `REVISION` | `audit/pv/` |
-| 2 | `audit_corpus.ipynb` | `CORPUS="plantdoc"`, `ROOT=Path("PlantDoc-Dataset")`, `OUT=Path("audit/pd")`, `REVISION` | `audit/pd/` |
+| 1 | `audit_corpusPV.ipynb` | `CORPUS="plantvillage"`, `ROOT=Path("PlantVillage-Dataset/raw/color")`, `OUT=Path("audit/pv")`, `REVISION` | `audit/pv/` |
+| 2 | `audit_corpusPD.ipynb` | `CORPUS="plantdoc"`, `ROOT=Path("PlantDoc-Dataset")`, `OUT=Path("audit/pd")`, `REVISION` | `audit/pd/` |
 | 3 | `partitions_plantvillage.ipynb` | Valeurs par défaut (graine 42) | `partitions/pv/` |
 | 4 | `contamination_plantvillage_plantdoc.ipynb` | Valeurs par défaut | `contamination/` |
 | 5 | `conditions_s2_plantvillage.ipynb` | Valeurs par défaut (graine 42) | `conditions_s2/` |

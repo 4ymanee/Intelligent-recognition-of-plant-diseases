@@ -15,4 +15,4 @@
 4. **Aucune réintégration** après gel des partitions sans nouvelle expérience déclarée et nouveau manifeste versionné.
 5. Limite à consigner : la cohorte principale n'est pas un échantillon aléatoire des images éligibles (couverture et sources différentes selon les classes).
 
-Décision validée le [date] par [noms] ; version du dépôt : [commit] ; empreinte de `included.csv` : `784c14139c578cb9...`
+Décision validée le [12/11/2026] par AMEUR EL IDRISSI Aymane et BELAYACHI Adnane ; version du dépôt : tag s2-artefacts-v1 »

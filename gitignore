@@ -1,0 +1,22 @@
+# Environnements et caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Corpus clonés (dépôts git imbriqués, non redistribués : licences, volume)
+PlantVillage-Dataset/
+PlantDoc-Dataset/
+
+# Planches d'images extraites des corpus (contiennent des images des corpus)
+**/review/
+**/paires/
+**/paires_entre_partitions/
+
+# Poids de modèles : ne pas versionner tels quels (utiliser Git LFS ou ne garder que l'empreinte SHA-256)
+runs/**/*.keras
+runs/**/*.h5
+
+# Fichiers système
+.DS_Store
+Thumbs.db
