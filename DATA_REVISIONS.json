@@ -1,0 +1,43 @@
+{
+  "plantvillage": {
+    "path": "PlantVillage-Dataset",
+    "remote": "https://github.com/spMohanty/PlantVillage-Dataset",
+    "commit": "7f7ecc7e1eaca78107e3affe7cb5abd9427e139a",
+    "downloaded": "2026-11-06",
+    "images_root": "raw/color",
+    "splits": [""],
+    "expected_counts": {
+      "Tomato___Bacterial_spot": 2127,
+      "Tomato___Early_blight": 1000,
+      "Tomato___Late_blight": 1909,
+      "Tomato___Leaf_Mold": 952,
+      "Tomato___Septoria_leaf_spot": 1771,
+      "Tomato___Spider_mites Two-spotted_spider_mite": 1676,
+      "Tomato___Target_Spot": 1404,
+      "Tomato___Tomato_Yellow_Leaf_Curl_Virus": 5357,
+      "Tomato___Tomato_mosaic_virus": 373,
+      "Tomato___healthy": 1591
+    }
+  },
+  "plantdoc": {
+    "path": "PlantDoc-Dataset",
+    "remote": "https://github.com/pratikkayal/PlantDoc-Dataset",
+    "commit": "5467f6012d78d1c446145d5f582da6096f852ae8",
+    "downloaded": "2026-11-07",
+    "images_root": ".",
+    "splits": ["train", "test"],
+    "license": "CC BY 4.0",
+    "expected_counts": {
+      "Tomato Early blight leaf": 88,
+      "Tomato Septoria leaf spot": 151,
+      "Tomato leaf": 63,
+      "Tomato leaf bacterial spot": 110,
+      "Tomato leaf late blight": 111,
+      "Tomato leaf mosaic virus": 54,
+      "Tomato leaf yellow virus": 76,
+      "Tomato mold leaf": 91,
+      "Tomato two spotted spider mites leaf": 2
+    },
+    "note": "Sous Windows, les fichiers dont le nom contient un point d'interrogation sont restaurés sous un nom assaini (restore_invalid_names.py) ; les effectifs attendus incluent ces fichiers restaurés."
+  }
+}
