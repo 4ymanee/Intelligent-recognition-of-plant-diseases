@@ -1,22 +1,40 @@
-# Environnements et caches
+# Environnements Python et caches
 .venv/
 venv/
+env/
 __pycache__/
+*.py[cod]
 .ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
 
-# Corpus clonés (dépôts git imbriqués, non redistribués : licences, volume)
+# Corpus clonés
 PlantVillage-Dataset/
 PlantDoc-Dataset/
 
-# Planches d'images extraites des corpus (contiennent des images des corpus)
+# Planches d'images extraites des corpus
 **/review/
 **/paires/
 **/paires_entre_partitions/
 
-# Poids de modèles : ne pas versionner tels quels (utiliser Git LFS ou ne garder que l'empreinte SHA-256)
-runs/**/*.keras
-runs/**/*.h5
+# Modèles volumineux
+experiments/**/best_e0.keras
+experiments/**/*.weights.h5
+experiments/**/models/
+
+# Résultats temporaires
+**/tensorboard/
+**/lightning_logs/
+wandb/
+*.log
+*.tmp
+
+# Secrets et configurations locales
+.env
+.env.*
+!.env.example
 
 # Fichiers système
 .DS_Store
 Thumbs.db
+desktop.ini
